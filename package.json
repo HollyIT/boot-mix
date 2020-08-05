@@ -1,0 +1,19 @@
+{
+  "name": "@hollyit/boot-mix",
+  "description": "A simple helper to run Laravel Mix in monorepo environments.",
+  "repository": "HollyIT/boot-mix",
+  "bugs": {
+    "url": "https://github.com/HollyIT/boot-mix/issues"
+  },
+  "homepage": "https://github.com/HollyIT/boot-mix#readme",
+  "author": "Jamie Holly",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "mix": "mix.js"
+  },
+  "engines": {
+    "node": ">=12.14.0"
+  }
+}
